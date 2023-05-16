@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1684069555 source:d:\praktikum dkp\modul 6\tugas kalkulator\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
+1684169051 source:c:\users\asus\downloads\tugas kalkulator\tugas kalkulator\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+
+1684224144 source:d:\romi\kuliah\semester 12\praktikum dkp\tugas kalkulator\tugas kalkulator\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+
